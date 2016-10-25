@@ -1,0 +1,6 @@
+{
+  "name": "Doug Warren",
+  "tagline": "",
+  "body": "### Welcome to GitHub Pages.\r\nThis web site is the home page for my GitHub account (dpw67) and repositories. \r\n\r\n### Status and Plans\r\nInitially I used the automatic generator to create this page using GitHub Flavored Markdown (GFM). Then I will create a branch named `gh-pages` for manual updates. Later I plan to utilize Jekyll, a simple blog aware static site generator. It includes additional features such as site-wide headers and footers, as well as intelligent blog support and other advanced templating features. \r\n\r\n### Repositories\r\nThese are selected recent active projects:\r\n* [dev-r-coursera](https://github.com/dpw67/dev-r-coursera) - Coursera: R Programming examples\r\n* [nodejsinaction](https://github.com/dpw67/nodejsinaction) - Node.JS in Action, 2nd Edition examples\r\n\r\n### About this site\r\n* [Web site URL](https://dpw67.GitHub.io)\r\n* [Email contact](git@dpw67.oib.com)\r\n\r\n### Related sites\r\n* [Wordpress](https://dpw67.wordpress.com)\r\n* [Twitter](https://twitter.com/dpw67blog)\r\n* [Facebook](https://facebook.com/dpw67blog)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
